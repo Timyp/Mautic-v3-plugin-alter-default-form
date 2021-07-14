@@ -1,4 +1,4 @@
-# Mautic-v3-plugin-alter-default-form
+# Mautic-v3 plugin alter default form
 
 This is a plugin for mautic v3.<br>
 This plugin allows you to modify the default forms of Mautic.<br>
